@@ -2,7 +2,7 @@
 
 My name is Ayush, and I'm a Computer Science major at UBC interested in building high quality software. 
 
-- I'm currently working on finishing up [Image to Recipe Recommender]{https://github.com/ludioludius/image-to-recipe-recommender} - a web application that suggests recipes based on an image containing food ingredients.
+- I'm currently working on finishing up [Image to Recipe Recommender](https://github.com/ludioludius/image-to-recipe-recommender) - a web application that suggests recipes based on an image containing food ingredients.
 - I'm always interested in learning more about the field, and I'm currently learning about more about Cloud, DevOps and test automation. 
 
 <!--
